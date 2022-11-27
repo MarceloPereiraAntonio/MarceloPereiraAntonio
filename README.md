@@ -9,7 +9,7 @@
 <div>
   <a href="https://github.com/MarceloPereiraAntonio">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=MarceloPereiraAntonio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloPereiraAntonio&layout=demo&langs_count=7&theme=radical"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloPereiraAntonio&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="marcelo-php" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
