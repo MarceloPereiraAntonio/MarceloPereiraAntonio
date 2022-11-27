@@ -1,6 +1,6 @@
 ### Olá Mundo! Eu sou Marcelo Pereira Antonio 🤖👋
 
-<img align="right" alt="marcelo-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/56845435/204160835-6fd7ad88-731b-4379-9d1d-7c49b5fcb7c2.gif">
+<img align="right" alt="marcelo-pic" height="100" style="border-radius:50px;" src="https://user-images.githubusercontent.com/56845435/204160835-6fd7ad88-731b-4379-9d1d-7c49b5fcb7c2.gif">
 
 
 - 🔭 Atualmente trabalhando como Back-end Junior.
