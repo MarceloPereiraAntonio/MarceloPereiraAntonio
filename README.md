@@ -1,6 +1,7 @@
 ### Olá Mundo! Eu sou Marcelo Pereira Antonio 🤖👋
 
-<img align="right" alt="marcelo-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/2164d9204f207b7adb09f3e52756ecd6.gif">
+<img align="right" alt="marcelo-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/56845435/204160835-6fd7ad88-731b-4379-9d1d-7c49b5fcb7c2.gif">
+
 
 - 🔭 Atualmente trabalhando como Back-end Junior.
 - 🌱 Estudando constantemente tecnologias de Back-end, Front-end e com uma quedinha em desenvolvimento de Apps 🤳
@@ -8,7 +9,7 @@
 <div>
   <a href="https://github.com/MarceloPereiraAntonio">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MarceloPereiraAntonio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloPereiraAntonio&layout=compact&langs_count=7&theme=radical"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloPereiraAntonio&layout=demo&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="marcelo-php" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
