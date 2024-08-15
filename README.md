@@ -1,11 +1,6 @@
-### Olá Mundo! Eu sou Marcelo Pereira Antonio 🤖👋
+### Hello World ! Eu sou Marcelo Pereira Antonio 🤖👋
 
 <img align="right" alt="marcelo-pic" height="100" style="border-radius:50px;" src="https://user-images.githubusercontent.com/56845435/204160835-6fd7ad88-731b-4379-9d1d-7c49b5fcb7c2.gif">
-
-
-- 🔭 Atualmente trabalhando como Back-end Junior.
-- 🌱 Estudando constantemente tecnologias de Back-end, Front-end e com uma quedinha em desenvolvimento de Apps 🤳
-
 <div>
   <a href="https://github.com/MarceloPereiraAntonio">
   <img height="191em" src="https://github-readme-stats.vercel.app/api?username=MarceloPereiraAntonio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
